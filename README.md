@@ -1,4 +1,5 @@
 # NET3LIX / 
+# for demo : https://net3lix.rcham.me
 # sorry this repo it's not free in this moment, if you want sourcecode you can talk with the owner : https://facebook.com/3LIIX1
 A modern Responsive Streaming service 
 ![image](https://user-images.githubusercontent.com/100720880/190920700-2e287fc1-637e-4bf3-a4b1-36c3f850da79.png)
